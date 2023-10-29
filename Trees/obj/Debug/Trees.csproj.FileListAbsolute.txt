@@ -5,3 +5,10 @@ C:\Users\cwalk\source\repos\Trees\Trees\bin\Debug\Trees.exe
 C:\Users\cwalk\source\repos\Trees\Trees\bin\Debug\Trees.pdb
 C:\Users\cwalk\source\repos\Trees\Trees\obj\Debug\Trees.exe
 C:\Users\cwalk\source\repos\Trees\Trees\obj\Debug\Trees.pdb
+C:\Users\cwalk\Documents\ProgAlgoritmeOpgave\Trees\bin\Debug\Trees.exe.config
+C:\Users\cwalk\Documents\ProgAlgoritmeOpgave\Trees\bin\Debug\Trees.exe
+C:\Users\cwalk\Documents\ProgAlgoritmeOpgave\Trees\bin\Debug\Trees.pdb
+C:\Users\cwalk\Documents\ProgAlgoritmeOpgave\Trees\obj\Debug\Trees.csproj.AssemblyReference.cache
+C:\Users\cwalk\Documents\ProgAlgoritmeOpgave\Trees\obj\Debug\Trees.csproj.CoreCompileInputs.cache
+C:\Users\cwalk\Documents\ProgAlgoritmeOpgave\Trees\obj\Debug\Trees.exe
+C:\Users\cwalk\Documents\ProgAlgoritmeOpgave\Trees\obj\Debug\Trees.pdb
